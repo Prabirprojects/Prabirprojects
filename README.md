@@ -1,236 +1,364 @@
-# 👋 Hi, I'm Prabir Pattanayak
+<!-- ===================== HEADER ===================== -->
 
-### 🤖 AI/ML & Data Science Enthusiast | Generative AI | Python
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Prabir%20Pattanayak&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-I’m an MCA graduate focused on building practical solutions using **Data Science, Machine Learning, and Generative AI**.
+<h3 align="center">
+  🤖 AI/ML & Data Science Enthusiast
+</h3>
 
-I enjoy working with data, experimenting with machine learning models, and building AI-powered applications using modern LLM tools.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+%7C+Data+Science+%7C+Machine+Learning;Generative+AI+%7C+LLMs+%7C+RAG;Building+Practical+AI+Applications;Learning+%7C+Building+%7C+Improving+Every+Day+🚀" alt="Typing SVG" />
+</p>
 
-Currently strengthening my **Python, Data Science, and AI Engineering** skills while building real-world projects.
+<p align="center">
+  <a href="https://github.com/Prabirprojects">
+    <img src="https://komarev.com/ghpvc/?username=Prabirprojects&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👋 About Me
 
-### 🐍 Programming
+🎓 MCA Graduate focused on **Artificial Intelligence, Machine Learning & Data Science**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+🐍 Building my foundation in **Python and problem solving**
 
-### 📊 Data Science & Visualization
+📊 Interested in **Data Analysis, Machine Learning and AI Engineering**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C9A9A?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+🧠 Exploring **Generative AI, LLMs and Retrieval-Augmented Generation**
 
-### 🤖 Machine Learning & AI
+🚀 Building practical projects to turn concepts into working applications
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+💼 Experienced in **Data Annotation, Data Evaluation and Prompt Classification**
 
-### ✨ Generative AI
+📚 Currently improving my Python fundamentals while continuing to build AI/ML projects
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6E56CF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Generative_AI-8A2BE2?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge)
+---
 
-### 🌐 Development & Tools
+# 🧠 My AI/ML Journey
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+```text
+                    🐍 Python
+                       │
+                       ▼
+                 📊 Data Science
+                       │
+                       ▼
+              🤖 Machine Learning
+                       │
+                       ▼
+               🧠 Deep Learning
+                       │
+                       ▼
+              ✨ Generative AI
+                       │
+                       ▼
+                 🔗 LangChain
+                       │
+                       ▼
+                  🔎 RAG / LLMs
+                       │
+                       ▼
+             🚀 AI/ML Engineering
+```
+
+---
+
+# 🛠️ Tech Stack
+
+## 🐍 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+## 📊 Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C9A9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+## 🤖 Machine Learning & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+## ✨ Generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenRouter-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
+</p>
+
+## 🌐 Development & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🍽️ AI Restaurant Idea Generator
+<table>
+<tr>
 
-**Generative AI application for creating complete restaurant concepts and menu ideas.**
+<td width="50%">
 
-Built using **Python, Streamlit, LangChain, OpenRouter, Pydantic, and Prompt Engineering**.
+<h3 align="center">🍽️ AI Restaurant Idea Generator</h3>
 
-### ✨ Highlights
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenRouter-6E56CF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
+</p>
 
-* Generates restaurant concepts using LLMs
-* Creates restaurant names and taglines
-* Generates target audience and ambience
-* Suggests signature dishes
-* Structured AI output using Pydantic
-* Interactive Streamlit interface
+<p align="center">
+An AI-powered application that generates restaurant concepts, taglines, target audiences, ambience and signature dishes using LLMs.
+</p>
 
-🔗 **[View Project](https://github.com/Prabirprojects/AI-Restaurant-Idea-Generator)**
+<p align="center">
+<a href="https://github.com/Prabirprojects/AI-Restaurant-Idea-Generator">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
----
+</td>
 
-## 💳 Financial Fraud Detection System
+<td width="50%">
 
-**Machine Learning system for detecting potentially fraudulent financial transactions.**
+<h3 align="center">💳 Financial Fraud Detection</h3>
 
-Built using **Python, Pandas, NumPy, Scikit-learn, Machine Learning, and Streamlit**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
+</p>
 
-### ✨ Highlights
+<p align="center">
+A machine learning system designed to identify potentially fraudulent financial transactions from highly imbalanced transaction data.
+</p>
 
-* Handles highly imbalanced transaction data
-* Exploratory data analysis
-* Data preprocessing
-* Machine learning classification
-* Model evaluation using precision, recall and F1-score
-* Random Forest based fraud detection
-* Streamlit application for prediction
+<p align="center">
+<a href="https://github.com/Prabirprojects/Financial-Fraud-Detection">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-🔗 **[View Project](https://github.com/Prabirprojects/Financial-Fraud-Detection)**
+</td>
 
----
+</tr>
 
-## 📊 Malnutrition Data Analysis
+<tr>
 
-**Data analysis project focused on exploring and understanding malnutrition-related datasets.**
+<td width="50%">
 
-Built using **Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Power BI**.
+<h3 align="center">📊 Malnutrition Data Analysis</h3>
 
-### ✨ Highlights
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Visualization-4C9A9A?style=flat-square"/>
+</p>
 
-* Data cleaning and preprocessing
-* Missing-value handling
-* Data manipulation with Pandas
-* Statistical exploration
-* Data visualization
-* Country and region-level analysis
-* Interactive dashboard development
+<p align="center">
+Data cleaning, manipulation, exploration and visualization of malnutrition-related datasets using Python and BI tools.
+</p>
 
-🔗 **View Repository**
+</td>
 
----
+<td width="50%">
 
-## 🧠 Retrieval-Augmented Generation
+<h3 align="center">🧠 RAG Application</h3>
 
-**Currently building and learning RAG-based AI applications.**
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square"/>
+</p>
 
-Exploring how LLM applications can combine:
+<p align="center">
+Currently exploring Retrieval-Augmented Generation and building applications that connect documents, retrieval systems and LLMs.
+</p>
 
-```text
-Documents
-    ↓
-Text Processing
-    ↓
-Chunking
-    ↓
-Embeddings
-    ↓
-Vector Database
-    ↓
-Retriever
-    ↓
-LLM
-    ↓
-Generated Answer
-```
+<p align="center">
+🚧 <b>In Progress</b>
+</p>
 
-Technologies I'm exploring include **LangChain, LLMs, embeddings, vector databases, and prompt engineering**.
+</td>
 
-🚧 **Project in progress**
+</tr>
+</table>
 
 ---
 
 # 📚 Currently Learning
 
-```text
-🐍 Python
-   ├── Data Structures
-   ├── Loops
-   └── Problem Solving
+<p align="center">
 
-📊 Data Science
-   ├── NumPy
-   ├── Pandas
-   └── Data Visualization
+<img src="https://img.shields.io/badge/Python%20Fundamentals-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-🤖 Machine Learning
-   ├── Model Building
-   ├── Evaluation
-   └── Feature Engineering
+</p>
 
-🧠 Generative AI
-   ├── LLM Applications
-   ├── RAG
-   ├── LangChain
-   └── Prompt Engineering
-```
+<p align="center">
+
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-00A67E?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 💼 Experience
 
-### 📌 Data Annotator Intern
+### 🏷️ Data Annotator Intern
 
-Worked on:
+Worked with AI/ML-related data tasks including:
 
-* Data evaluation
-* Prompt classification
-* Data labeling
-* AI/ML-related data preparation
+* 📌 Data evaluation
+* 📌 Prompt classification
+* 📌 Data labeling
+* 📌 Quality-focused data preparation
 
-This experience helped me understand how high-quality data contributes to reliable AI systems.
-
----
-
-# 🎯 What I'm Interested In
-
-* 🤖 Machine Learning
-* 🧠 Artificial Intelligence
-* ✨ Generative AI
-* 📚 Large Language Models
-* 🔎 Retrieval-Augmented Generation
-* 📊 Data Science
-* 🐍 Python
-* 🛠️ AI Application Development
+This experience helped me understand the importance of **high-quality data in AI systems**.
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabirprojects&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabirprojects&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prabirprojects&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 My Development Journey
+# 🎯 What I'm Working Toward
 
 ```text
-Python
-  ↓
-Data Science
-  ↓
-Machine Learning
-  ↓
-Deep Learning
-  ↓
-Generative AI
-  ↓
-LLM Applications
-  ↓
-RAG
-  ↓
-AI/ML Engineering 🚀
+                    🎯 AI / ML ENGINEER
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+      📊 Data           🤖 ML            ✨ GenAI
+      Science                              │
+                                           ▼
+                                      🧠 LLMs
+                                           │
+                                           ▼
+                                       🔎 RAG
+                                           │
+                                           ▼
+                                  🚀 AI Applications
 ```
 
-I'm continuously improving my fundamentals while turning what I learn into practical projects.
+My goal is to become a strong **AI/ML professional** by combining solid fundamentals with practical project experience.
 
 ---
 
-# 🤝 Let's Connect
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Prabirprojects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabirprojects&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Prabirprojects&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 My Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Prabirprojects/Prabirprojects/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabirprojects&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prabirprojects&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🧩 My Development Philosophy
+
+<p align="center">
+
+### Learn → Build → Break → Debug → Improve → Repeat 🔁
+
+</p>
+
+```text
+📚 Learn the concept
+       ↓
+💻 Write the code
+       ↓
+🐛 Find the errors
+       ↓
+🔧 Debug
+       ↓
+🚀 Build a project
+       ↓
+📈 Improve
+       ↓
+🔁 Repeat
+```
+
+---
+
+# 📫 Let's Connect
 
 <p align="center">
 
@@ -238,7 +366,7 @@ I'm continuously improving my fundamentals while turning what I learn into pract
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/prabir-kumar-pattanayak-415909233/">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -246,10 +374,12 @@ I'm continuously improving my fundamentals while turning what I learn into pract
 
 ---
 
-### 💡 My Goal
+<p align="center">
 
-> **Build practical AI solutions, strengthen my fundamentals, and keep learning by building.** 🚀
+### 💡 Building practical AI solutions, one project at a time. 🚀
 
----
+</p>
 
-⭐ If you find my projects useful, feel free to explore the repositories and connect with me!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=fadeIn"/>
+</p>
