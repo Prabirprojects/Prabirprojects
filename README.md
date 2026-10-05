@@ -180,6 +180,15 @@ This experience helped me understand the importance of **high-quality data in AI
 ## 👨‍💻 <strong>Let's Connect</strong>
 
 <p align="center">
+  <a href="mailto:prabirkupattanayak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 20px;">
+  </a>
+  <a href="https://www.linkedin.com/in/prabir-kumar-pattanayak-415909233/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 20px;">
+  </a>
+  <a href="https://www.instagram.com/prabir__pattanayak/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 20px;">
+  </a>
   <a href="https://github.com/Prabirprojects">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 20px;">
   </a>
